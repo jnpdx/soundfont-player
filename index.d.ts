@@ -1,4 +1,5 @@
 declare type InstrumentName =
+  | string
   | "accordion"
   | "acoustic_bass"
   | "acoustic_grand_piano"
